@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../LotoGame.Tests/LotoGame.Tests.csproj" Id="d036ba25-2a33-49f0-aaa4-0c38f1100497" />
   <Project Path="LotoGame.csproj" Id="a38be833-5434-44c9-937e-7fd0f88cb988" />
 </Solution>
